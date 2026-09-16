@@ -1,1 +1,1 @@
-Notizen Übung mit Änderung
+Notizen Übung
