@@ -1,0 +1,1 @@
+Branch anlegen und wechseln, Konflikt auflösen, Stash, Zweig löschen
